@@ -1,8 +1,8 @@
 ### Leo Liu 🚀♠️
 
-Building, Data Science, Poker, Philosophy, Sports enthusiast.
+Full Stack, Data Science, Poker, Physics, Philosophy enthusiast.
 
-Catch me at [leohliu.com](https://leohliu.com)!
+Catch me at [leohliu\[dot\]com](https://leohliu.com)!
 
 <!--
 **LeonLiur/LeonLiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
