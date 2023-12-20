@@ -1,4 +1,4 @@
-### Leo Liu 🚀♠️
+### Leo Liu
 
 Full Stack, Data Science, Poker, Physics, Philosophy enthusiast.
 
