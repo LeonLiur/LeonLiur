@@ -1,6 +1,6 @@
 ### Leo Liu
 
-Full Stack, Data Science, Poker, Physics, Philosophy enthusiast.
+Full Stack, Data Science, Poker, Physics, Philosophy.
 
 Catch me at [leohliu\[dot\]com](https://leohliu.com)!
 
