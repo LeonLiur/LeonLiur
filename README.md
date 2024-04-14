@@ -1,8 +1,6 @@
-### Leo Liu
+Likes physics.
 
-Full Stack, Data Science, Poker, Physics, Philosophy.
-
-Catch me at [leohliu\[dot\]com](https://leohliu.com)!
+[leohliu\[dot\]com](https://leohliu.com)
 
 <!--
 **LeonLiur/LeonLiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
